@@ -11,12 +11,13 @@ public class HasADeslioazation {
 		
 	ObjectInput oi = new ObjectInputStream(new FileInputStream("dog.ser"));
 	
-	Dog d = (Dog) oi.readObject();
+//	Dog d = (Dog) oi.readObject();
 	
-	System.out.println(d.c.r.age);
+//	System.out.println(d.c.r.age);
 	
 	oi.close();
 		
 	}
+	
 	
 }
