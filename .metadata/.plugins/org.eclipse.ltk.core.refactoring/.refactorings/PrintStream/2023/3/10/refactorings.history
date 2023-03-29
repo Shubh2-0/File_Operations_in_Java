@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;PrintStream/student&apos; to &apos;student.txt&apos;" description="Rename resource &apos;student&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="student" name="student.txt" stamp="1678516803462" updateReferences="true"/>
+</session>

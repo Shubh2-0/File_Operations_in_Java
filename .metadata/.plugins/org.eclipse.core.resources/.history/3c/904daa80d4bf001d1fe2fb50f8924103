@@ -1,0 +1,19 @@
+package com.masai;
+
+import java.io.FileNotFoundException;
+import java.io.PrintWriter;
+
+public class Main {
+	
+	public static void main(String[] args) throws FileNotFoundException {
+	
+	PrintWriter pr = new PrintWriter("F.txt");
+	pr.write(100);
+	pr.println();
+	pr.print(100);
+	pr.close();
+	
+		
+	}
+
+}
