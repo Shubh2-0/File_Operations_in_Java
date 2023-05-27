@@ -17,3 +17,4 @@ Character Stream is mainly involved with character data. A file handling process
 
 # Java File Class Methods
 
+<img src ="https://github.com/Shubh2-0/File_Operations_in_Java/blob/main/Images/methods.png">
