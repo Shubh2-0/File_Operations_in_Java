@@ -7,7 +7,7 @@ Before understanding the File operations, it is required that we should have kno
 # Stream
 A series of data is referred to as a stream. In Java, Stream is classified into two types, i.e., Byte Stream and Character Stream.
 
-<img src ="https://static.javatpoint.com/core/images/file-operations-in-java.png">
+<img src ="https://github.com/Shubh2-0/File_Operations_in_Java/blob/main/Images/type.png">
 
 # Byte Stream
 Byte Stream is mainly involved with byte data. A file handling process with a byte stream is a process in which an input is provided and executed with the byte data.
