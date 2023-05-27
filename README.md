@@ -7,4 +7,4 @@ Before understanding the File operations, it is required that we should have kno
 # Stream
 A series of data is referred to as a stream. In Java, Stream is classified into two types, i.e., Byte Stream and Character Stream.
 
-<img src ="![image](https://github.com/Shubh2-0/File_Operations_in_Java/assets/112773220/31450d66-29f7-43bb-8682-4a1397d67322)">
+<img src ="https://static.javatpoint.com/core/images/file-operations-in-java.png">
