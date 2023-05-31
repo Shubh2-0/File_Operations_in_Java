@@ -62,15 +62,12 @@ To embark on your file operations journey, follow these steps:
 
 ## Contributing
 
-We welcome contributions from the Java community! If you have any enhancements, bug fixes, or new project ideas related to file operations, feel free to submit a pull request. Together, we can make this repository even more valuable. 🤝🌟
+I welcome contributions from the Java community! If you have any enhancements, bug fixes, or new project ideas related to file operations, feel free to submit a pull request. Together, we can make this repository even more valuable. 🤝🌟
 
-## License
-
-This repository is licensed under the MIT License. For more details, refer to the [LICENSE](LICENSE) file.
 
 ## Acknowledgements
 
-We extend our heartfelt thanks to the Java documentation and the Stack Overflow community for their valuable insights and support. 🙏
+I extend my heartfelt thanks to the Java documentation and the Stack Overflow community for their valuable insights and support. 🙏
 
 Please note that these projects aim to provide a solid foundation in file operations in Java, but they may not cover every edge case. For more comprehensive information, refer to the official Java documentation and other trusted resources. Enjoy exploring the world of file operations in Java! 🌟🚀👩‍💻👨‍💻
 
